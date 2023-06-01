@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harsh Lodhi
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning OOP and WEB
-- 💞️ I’m looking to collaborate on Website development
+- 👀 A beginner in the feild of coding 
+- 🌱 Web Developer 🎓
+- Working on WEB Projects
 
 <!---
 hlodhi01/hlodhi01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
