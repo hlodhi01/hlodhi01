@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harsh Lodhi
 - 👀 A beginner in the feild of coding 
 - 🌱 Web Developer 🎓
-- Working on WEB Projects
+- Working on WEB Projects💻
 
 
 <!---
